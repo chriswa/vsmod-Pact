@@ -1,0 +1,14 @@
+{
+  "type": "Code",
+  "side": "Server",
+  "modid": "pact",
+  "name": "Pact",
+  "authors": [
+    "goxmeor"
+  ],
+  "description": "Allows two players to respawn together, costing only their lives and spawn points.",
+  "version": "1.0.0",
+  "dependency": {
+    "game": ""
+  }
+}
